@@ -5,13 +5,13 @@
 #
 # https://github.com/actions/starter-workflows/blob/main/ci/python-app.yml
 
-name: Python application
+name: Tests
 
 on:
   push:
-    # branches: [ "master" ]
+    branches: [ "master" ]
   pull_request:
-    # branches: [ "master" ]
+    branches: [ "master" ]
 
 permissions:
   contents: read

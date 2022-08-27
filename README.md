@@ -24,6 +24,12 @@ Initial effort to use gitHUB actions CI/UI workflow working on a Dash project.
 
     pytest
 
+### Links
 
+* [GitHub Actions]
+  * [Adding a workflow status badge]
+
+[GitHub Actions]: https://docs.github.com/en/actions
+[Adding a workflow status badge]: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge
 [build_status_badge]: https://github.com/stevej2608/dash_ci_example/actions/workflows/test.yml/badge.svg
 [build_status_link]: https://github.com/stevej2608/dash_ci_example/actions/workflows/test.yml
