@@ -3,7 +3,7 @@
 
 ## dash_ci_example
 
-Initial effort to use gitHUB actions CI/UI workflow working on a Dash project.
+Initial effort to use gitHUB actions CI/CD workflow working on a Dash project.
 
 ### Objectives
 
