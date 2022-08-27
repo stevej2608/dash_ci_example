@@ -5,7 +5,7 @@
 #
 # https://github.com/actions/starter-workflows/blob/main/ci/python-app.yml
 
-name: Tests
+name: Test [ubuntu, windows, macOS]
 
 on:
   push:
