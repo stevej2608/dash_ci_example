@@ -1,3 +1,6 @@
+[![Build Status][build_status_badge]][build_status_link]
+
+
 ## dash_ci_example
 
 Initial effort to use gitHUB actions CI/UI workflow working on a Dash project.
@@ -20,3 +23,7 @@ Initial effort to use gitHUB actions CI/UI workflow working on a Dash project.
 ### Testing
 
     pytest
+
+
+[build_status_badge]: https://github.com/stevej2608/dash_ci_example/actions/workflows/test.yml/badge.svg
+[build_status_link]: https://github.com/stevej2608/dash_ci_example/actions/workflows/test.yml
